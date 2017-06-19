@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-aop-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-aspects-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-beans-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-context-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-context-support-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-core-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-expression-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-instrument-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-instrument-tomcat-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-jdbc-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-jms-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-messaging-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-orm-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-oxm-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-test-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-tx-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-web-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-webmvc-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-webmvc-portlet-4.3.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jspgou/lib/spring-websocket-4.3.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
